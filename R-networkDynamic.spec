@@ -7,7 +7,7 @@ Release:          1
 Summary:          Dynamic Extensions for Network Objects
 Group:            Sciences/Mathematics
 License:          GPLv3
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
 Requires:         R-network >= 1.7.2 R-statnet.common R-testthat >= 0.7.1
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
